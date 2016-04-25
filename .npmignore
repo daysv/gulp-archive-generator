@@ -1,0 +1,12 @@
+index.js
+test.js
+test
+.idea
+.git
+.gitignore
+.travis.yml
+coverage
+.npmignore
+node_modules
+npm-debug.log
+gulpfiles.js
